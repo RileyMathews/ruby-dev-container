@@ -1,0 +1,10 @@
+{
+	"name": "Ruby 2.6",
+	"context": "..",
+	"dockerFile": "Dockerfile",
+	"workspaceFolder": "/workspace",
+	"extensions": [
+		"rebornix.ruby",
+		"noku.rails-run-spec-vscode"
+	]
+}
